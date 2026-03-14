@@ -1,0 +1,76 @@
+{
+  "ventas": [
+    {
+      "id_venta": 1,
+      "fecha": "2025-03-10",
+      "cliente": "Ana López",
+      "productos": [
+        {
+          "nombre": "Laptop",
+          "categoria": "Informática",
+          "precio": 899.99,
+          "cantidad": 1
+        },
+        {
+          "nombre": "Ratón inalámbrico",
+          "categoria": "Accesorios",
+          "precio": 29.99,
+          "cantidad": 2
+        }
+      ],
+      "total": 959.97,
+      "metodo_pago": "tarjeta"
+    },
+    {
+      "id_venta": 2,
+      "fecha": "2025-03-11",
+      "cliente": "Carlos Martínez",
+      "productos": [
+        {
+          "nombre": "Smartphone",
+          "categoria": "Telefonía",
+          "precio": 699.99,
+          "cantidad": 1
+        }
+      ],
+      "total": 699.99,
+      "metodo_pago": "efectivo"
+    },
+    {
+      "id_venta": 3,
+      "fecha": "2025-03-12",
+      "cliente": "Laura García",
+      "productos": [
+        {
+          "nombre": "Tablet",
+          "categoria": "Informática",
+          "precio": 349.99,
+          "cantidad": 1
+        },
+        {
+          "nombre": "Funda para tablet",
+          "categoria": "Accesorios",
+          "precio": 19.99,
+          "cantidad": 1
+        }
+      ],
+      "total": 369.98,
+      "metodo_pago": "tarjeta"
+    },
+    {
+      "id_venta": 4,
+      "fecha": "2025-03-13",
+      "cliente": "Pedro Sánchez",
+      "productos": [
+        {
+          "nombre": "Auriculares",
+          "categoria": "Accesorios",
+          "precio": 59.99,
+          "cantidad": 3
+        }
+      ],
+      "total": 179.97,
+      "metodo_pago": "transferencia"
+    }
+  ]
+}
